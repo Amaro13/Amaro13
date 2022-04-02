@@ -1,5 +1,4 @@
 ## Hi, I’m currently working on FrontEnd Development and learning ReactJs and Angular.
-- 📱 How to reach me: (22) 99866-6854
 
 
 
