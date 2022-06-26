@@ -1,4 +1,4 @@
-## Hi, I’m currently working on FrontEnd Development and learning ReactJs and Angular.
+## Hi, I’m currently working on FullStack Development and learning ReactJs and Angular.
 
 
 
