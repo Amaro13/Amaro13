@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaro13&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##Skills
+  ## Skills
 <div style="display: flex">
   <img align="center" alt="Amaro-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align="center" alt="Amaro-Ty" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -26,7 +26,7 @@
   <img align="center" alt="Amaro-Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
 </div>
   
-  ##Contact
+  ## Contact
  
 <div> 
   <a href="https://www.instagram.com/amaroribe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
