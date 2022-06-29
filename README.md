@@ -9,7 +9,7 @@
 </div>
   
   ## Skills
-<div style="display: flex">
+<div style="display: flex"><br/>
   <img align="center" alt="Amaro-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align="center" alt="Amaro-Ty" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Amaro-NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
