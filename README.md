@@ -1,8 +1,8 @@
 # Hi, I'm a passionate fullstack developer from Brazil.
 
 ## 💻 About me
-* 📚 Learninng new things daily at Blue Edtech;
-* 🧭 Exploring technologies everyday to develop software solutions to our world problems;
+* 📚 An avid student of fullstack web development at Blue EdTech;
+* 🧭 Learning new technologies everyday to develop the best possible solutions to every problem;
 * 🎓 Graduated in Production Engineering at Faculdade Professor Miguel Ângelo da Silva Santos;
 
 ## My Stats
