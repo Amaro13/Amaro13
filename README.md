@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amaro Francisco</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaro13&label=Profile%20views&color=0e75b6&style=flat" alt="amaro13" /> </p>
 
 ## 💻 About me
 - 🔭 I’m currently working on [Pizza-Fresh](https://github.com/Amaro13/pizza-fresh-server)
@@ -17,7 +16,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaro13&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaro13&" alt="amaro13" /></p>
   
   ## 🛠 Tech Stack
 * 🎨 Front-end - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="25px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="25px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="23px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="23px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="23px" />  
@@ -31,9 +29,9 @@
   ## 🤝🏼 Contact
  
 <div> 
-  <a href="https://www.instagram.com/amaroribe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/AmaroRibeiro1995/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/amaroribeiro/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+  <a href="https://www.instagram.com/amaroribe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="23px" target="_blank"></a>
+  <a href="https://www.facebook.com/AmaroRibeiro1995/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="23px" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/amaroribeiro/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="23px" target="_blank"></a> 
   <a href = "mailto:amaro.ribeiro1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:amaro_ribeir0@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
