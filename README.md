@@ -2,11 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 
-## 💻 About me
-- 🔭 I’m currently working on [Pizza-Fresh](https://github.com/Amaro13/pizza-fresh-server)
-- 🌱 I’m currently learning **nestJs, python, reactJs**
-- 👯 I’m looking to collaborate on [Hambluergueria](https://github.com/Amaro13/hambluergueria)
-- 🤝 I’m looking for help with [Mangascans](https://github.com/Amaro13/mangascans)
+## 💻 Projects
 - 👨‍💻 All of my projects are available at [https://github.com/Amaro13?tab=repositories](https://github.com/Amaro13?tab=repositories)
 
 ## My Stats
